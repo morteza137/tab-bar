@@ -72,19 +72,3 @@ import TabBar from "react-native-tab-bar-interaction";
 ## Dependencies
 
 * `react-native-svg`
-
-
-# Changelog
-
-### Version: 1.0
-
-  * Initial Build
-
-
-
-# LICENSE!
-
-React-native-tabbar-interaction is [MIT-licensed](https://github.com/Mindinventory/react-native-tabbar-interaction/blob/master/LICENSE).
-
-# Let us know!
-We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
