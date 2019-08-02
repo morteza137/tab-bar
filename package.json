@@ -1,5 +1,5 @@
 {
-  "name": "@mindinventory/react-native-tab-bar-interaction",
+  "name": "native-tab-bar",
   "version": "1.0.3",
   "description": "A tabbar component for React Native",
   "main": "TabBar.js",
@@ -26,10 +26,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Mindinventory/react-native-tab-bar-interaction.git"
+    "url": "git+ssh://git@github.com/morteza137/tab-bar.git"
   },
   "bugs": {
-    "url": "https://github.com/Mindinventory/react-native-tab-bar-interaction/issues"
+    "url": "https://github.com/morteza137/tab-bar/issues"
   },
-  "homepage": "https://github.com/Mindinventory/react-native-tab-bar-interaction#readme"
+  "homepage": "https://github.com/morteza137/tab-bar#readme"
 }
